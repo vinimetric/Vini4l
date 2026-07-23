@@ -1,5 +1,5 @@
 
-<h1>About</h1>
+## About
 
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
@@ -10,7 +10,6 @@
 #### I'm a current undergraduate physics student at the Federal University of Rio Grande do Sul (UFRGS).
 ###### ...
 
+###### #Science #Machine Learning #VAE #Diffusion #C++ #python #C# 
 
-###### #Science #Machine Learning 
-
-[![An image of @vinimetric's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinimetric)](https://holopin.io/@vinimetric)
+<img width="1000" height="100" alt="Image" src="https://github.com/user-attachments/assets/86be02af-69ba-4861-8bdf-8735f09cfc8f" />
